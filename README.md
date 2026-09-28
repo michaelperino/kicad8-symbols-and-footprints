@@ -19,3 +19,14 @@ Distributed under the terms of the [MIT license](https://opensource.org/licenses
 </p>
 
 ![Pimoroni PGA2350 pinout diagram](/Pimoroni_PGA2350/docs/pimoroni_pga2350_pinout_diagram.png)
+
+## Waveshare Core2350B0
+
+[Waveshare Core2350B0](http://www.waveshare.com/wiki/Core2350B0) is an [RP2350](https://en.wikipedia.org/wiki/RP2350) breakout board modelled on a [Pin Grid Array](https://en.wikipedia.org/wiki/Pin_grid_array), with all 48 GPIOs broken out.
+
+* Home page / Wiki: http://www.waveshare.com/wiki/Core2350B0
+* [Schematic diagram (printable PDF)](/Waveshare_Core2350B0/docs/waveshare_core2350b0_schematic_diagram.pdf)
+
+![Waveshare Core2350B0 board](/Waveshare_Core2350B0/docs/waveshare_core2350b0_board_image.jpg)
+
+![Waveshare Core2350B0 pin definition](/Waveshare_Core2350B0/docs/waveshare_core2350b0_pin_definition.jpg)
